@@ -1,0 +1,51 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Sources/Events.c" FileDate="2016-03-29, 14:54:24" FileAge="1459279464925" FileType="131328" />
+      <File Name="Sources/main.c" FileDate="2016-03-29, 10:46:40" FileAge="1459264600953" FileType="128" />
+      <File Name="Generated_Code/IRRx.h" FileDate="2016-03-29, 10:56:38" FileAge="1459265198247" FileType="45637" CompNumb="18" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2016-02-06, 10:12:02" FileAge="1454769722662" FileType="45637" />
+      <File Name="Generated_Code/Left_Motor_Ref.h" FileDate="2016-02-06, 10:42:49" FileAge="1454771569286" FileType="45637" CompNumb="12" />
+      <File Name="Generated_Code/Sensores.h" FileDate="2016-02-06, 10:42:49" FileAge="1454771569276" FileType="45637" CompNumb="14" />
+      <File Name="Generated_Code/Right_Motor_Ref.h" FileDate="2016-02-06, 10:42:49" FileAge="1454771569290" FileType="45637" CompNumb="11" />
+      <File Name="Documentation/Controlador_AGV_Settings.xml" FileDate="2016-03-29, 10:56:39" FileAge="1459265199681" FileType="3072" />
+      <File Name="Generated_Code/IRRx.c" FileDate="2016-03-29, 10:56:38" FileAge="1459265198252" FileType="45637" CompNumb="18" />
+      <File Name="Generated_Code/Left_Motor.h" FileDate="2016-02-22, 15:19:08" FileAge="1456170548122" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/Left_Motor_Ref.c" FileDate="2016-02-06, 10:42:49" FileAge="1454771569284" FileType="45637" CompNumb="12" />
+      <File Name="Documentation/Controlador_AGV.txt" FileDate="2016-03-29, 10:46:41" FileAge="1459264601093" FileType="3072" />
+      <File Name="Generated_Code/Sensores.c" FileDate="2016-02-22, 15:19:08" FileAge="1456170548129" FileType="45637" CompNumb="14" />
+      <File Name="Generated_Code/Right_Motor_Ref.c" FileDate="2016-02-06, 10:42:49" FileAge="1454771569288" FileType="45637" CompNumb="11" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2016-03-29, 10:37:11" FileAge="1459264031440" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/IRRx_Watchdog.h" FileDate="2016-03-29, 10:56:38" FileAge="1459265198592" FileType="45637" CompNumb="42" />
+      <File Name="Generated_Code/Left_Motor.c" FileDate="2016-02-22, 15:19:08" FileAge="1456170548125" FileType="45637" CompNumb="9" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.prm" FileDate="2016-02-06, 10:12:02" FileAge="1454769722652" FileType="8" CompNumb="4" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2016-02-06, 10:12:02" FileAge="1454769722672" FileType="45637" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2016-03-29, 10:56:38" FileAge="1459265198601" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/IRRx_Watchdog.c" FileDate="2016-03-29, 10:56:38" FileAge="1459265198596" FileType="45637" CompNumb="42" />
+      <File Name="Generated_Code/Right_Motor.h" FileDate="2016-02-22, 15:19:08" FileAge="1456170548115" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/Actualizador_Estados.h" FileDate="2016-03-29, 10:56:38" FileAge="1459265198228" FileType="45637" CompNumb="17" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2016-02-06, 10:12:02" FileAge="1454769722662" FileType="45637" />
+      <File Name="Generated_Code/Parada.h" FileDate="2016-02-06, 10:42:49" FileAge="1454771569271" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/Muestreador.h" FileDate="2016-03-02, 13:47:30" FileAge="1456942650001" FileType="45637" CompNumb="16" />
+      <File Name="Generated_Code/Right_Motor.c" FileDate="2016-02-22, 15:19:08" FileAge="1456170548118" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2016-02-06, 10:12:02" FileAge="1454769722662" FileType="45637" />
+      <File Name="Generated_Code/Actualizador_Estados.c" FileDate="2016-03-29, 10:56:38" FileAge="1459265198243" FileType="45637" CompNumb="17" />
+      <File Name="Generated_Code/IO_Map.c" FileDate="2016-02-06, 10:12:02" FileAge="1454769722662" FileType="45637" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2016-03-29, 10:56:38" FileAge="1459265198606" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/Parada.c" FileDate="2016-02-06, 10:42:49" FileAge="1454771569261" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/Muestreador.c" FileDate="2016-03-02, 13:47:30" FileAge="1456942650273" FileType="45637" CompNumb="16" />
+      <File Name="Documentation/Controlador_AGV_SIGNALS.txt" FileDate="2016-03-29, 18:58:41" FileAge="1459294121328" FileType="3072" />
+      <File Name="Sources/Events.h" FileDate="2016-03-29, 10:55:34" FileAge="1459265134575" FileType="131328" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>42</CodeGenReference>
+</CodeGenerationInfo>

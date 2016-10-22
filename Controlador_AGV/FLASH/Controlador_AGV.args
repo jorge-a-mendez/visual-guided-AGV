@@ -1,0 +1,31 @@
+"$(ProjDirPath)/Project_Settings/Linker_Files/ProcessorExpert.prm"
+-M
+-ViewHidden
+-WmsgFob"%f%e:%l:%k:%d %m\n"
+-WmsgSd1100
+-WmsgSd1912 
+-Add("$(ProjDirPath)/FLASH/Sources/CMD_Rx_c.obj"
+"$(ProjDirPath)/FLASH/Sources/Events_c.obj"
+"$(ProjDirPath)/FLASH/Sources/controlador_AGV_c.obj"
+"$(ProjDirPath)/FLASH/Sources/estados_c.obj"
+"$(ProjDirPath)/FLASH/Sources/linea_parada_c.obj"
+"$(ProjDirPath)/FLASH/Sources/main_c.obj"
+"$(ProjDirPath)/FLASH/Sources/motores_c.obj"
+"$(ProjDirPath)/FLASH/Sources/posicion_c.obj"
+"$(ProjDirPath)/FLASH/Sources/proximidad_c.obj"
+"$(ProjDirPath)/FLASH/Sources/pruebas_c.obj"
+"$(ProjDirPath)/FLASH/Project_Settings/Startup_Code/start08_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/Actualizador_Estados_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/Cpu_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/IO_Map_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/IRRx_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/IRRx_Watchdog_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/Left_Motor_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/Left_Motor_Ref_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/Muestreador_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/Parada_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/Right_Motor_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/Right_Motor_Ref_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/Sensores_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/Vectors_c.obj"
+"$(MCUToolsBaseDirEnv)/lib/hc08c/lib/ansifs.lib" )
